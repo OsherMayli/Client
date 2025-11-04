@@ -1,5 +1,25 @@
 {
-  "video": "intro.MP4",
-  "title": "Welcome to StoryMU Season 3 test",
-  "subtitle": "Enjoy the full experience in one short video!"
+  "slides": [
+    {
+      "image": "slide1.jpg",
+      "title": "Welcome to StoryMU Season 3",
+      "subtitle": "Everything you need to begin is here—download, install, and jump into the adventure in minutes."
+    },
+    {
+      "image": "slide2.jpg",
+      "title": "How to Start",
+      "subtitle": "Choose your install folder and click Install. The client will download and unpack automatically."
+    },
+    {
+      "image": "slide3.jpg",
+      "title": "Security & Performance",
+      "subtitle": "We add your chosen folder to Windows Defender exclusions to prevent false positives and speed up patching."
+    },
+    {
+      "image": "slide4.jpg",
+      "title": "You’re All Set!",
+      "subtitle": "Open the client folder and launch the game. Need an account? Create one at StoryMU Season 3."
+    }
+  ]
 }
+
